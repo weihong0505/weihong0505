@@ -14,6 +14,7 @@
 
 | 仓库 | 一句话 | 技术 |
 |---|---|---|
+| [**ai-collaboration-notes**](https://github.com/weihong0505/ai-collaboration-notes) | **一个人 + 多个 AI 代理的工程方法论**：怎么让产出可证伪、审查有对账压力、失败无法静默。提炼自 41 份项目复盘（约 44 万字符） | 方法论 · 对抗性审查 · 失败模式 |
 | [**local-llm-forensics**](https://github.com/weihong0505/local-llm-forensics) | 不加载模型，从 GGUF 头与 Ollama manifest 判断「这个模型到底是什么」；并测量人格漂移、上下文行为、指令优先级 | GGUF · Ollama · 因子式探针 · 长程召回 |
 | [**npu-decision-engine**](https://github.com/weihong0505/npu-decision-engine) | 量化 Intel NPU 跑 LLM 推理到底值不值 | OpenVINO · ONNX · INT4 · 基准工程 |
 | [**ai-audiovisual-perception**](https://github.com/weihong0505/ai-audiovisual-perception) | 给纯文本 LLM 装本地「眼睛和耳朵」：多路连续录制 + 片段级时序理解 + 检索问答 | faster-whisper · Qwen2.5-VL · SQLite FTS5 · Ollama |
